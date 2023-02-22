@@ -1,6 +1,5 @@
 // username=zahraa ,password=1234
-//Reem Hubaill-2220000098
-// Zahra Hassan AlZayed-2220006641
+
 
 #include <iostream>
 #include <windows.h>// for COORD 
