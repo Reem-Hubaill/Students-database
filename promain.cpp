@@ -1,6 +1,4 @@
 // username=zahraa ,password=1234
-
-
 #include <iostream>
 #include <windows.h>// for COORD 
 #include <fstream>
